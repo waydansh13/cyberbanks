@@ -1,0 +1,204 @@
+2026-05-01 23:03:51 [INFO]: 🏦 CyberBank API running on port 5001 [development]
+2026-05-01 23:03:51 [INFO]: 🔐 STRIDE security controls active
+2026-05-01 23:04:21 [ERROR]: MongoDB connection failed: connect ECONNREFUSED 127.0.0.1:27017
+2026-05-05 22:57:05 [INFO]: 🏦 CyberBank API running on port 5001 [development]
+2026-05-05 22:57:05 [INFO]: 🔐 STRIDE security controls active
+2026-05-05 22:57:35 [ERROR]: MongoDB connection failed: connect ECONNREFUSED 127.0.0.1:27017
+2026-05-05 23:06:28 [INFO]: 🏦 CyberBank API running on port 5001 [development]
+2026-05-05 23:06:28 [INFO]: 🔐 STRIDE security controls active
+2026-05-05 23:06:28 [INFO]: MongoDB Connected: 127.0.0.1
+2026-05-05 23:07:05 [INFO]: [AUTH] REGISTER | IP: ::1 | User: vedansh@gmail.com | {"name":"vedansh","role":"customer"}
+2026-05-05 23:07:05 [INFO]: [AUTH] New user registered | {"email":"vedansh@gmail.com","role":"customer","ip":"::1"}
+2026-05-05 23:07:05 [HTTP]: [0mPOST /api/auth/register [32m201[0m 264.480 ms - 350[0m
+2026-05-05 23:07:30 [HTTP]: [0mPOST /api/auth/logout [33m401[0m 8.818 ms - 81[0m
+2026-05-05 23:07:46 [INFO]: [AUTH] REGISTER | IP: ::1 | User: vedu@gmail.com | {"name":"vedu","role":"analyst"}
+2026-05-05 23:07:46 [INFO]: [AUTH] New user registered | {"email":"vedu@gmail.com","role":"analyst","ip":"::1"}
+2026-05-05 23:07:46 [HTTP]: [0mPOST /api/auth/register [32m201[0m 253.954 ms - 343[0m
+2026-05-05 23:07:46 [HTTP]: [0mGET /api/logs/stats [33m401[0m 2.064 ms - 81[0m
+2026-05-05 23:07:58 [INFO]: [AUTH] LOGIN_SUCCESS | IP: ::1 | User: vedu@gmail.com | {"role":"analyst"}
+2026-05-05 23:07:58 [INFO]: [AUTH] Successful login | {"email":"vedu@gmail.com","role":"analyst","ip":"::1"}
+2026-05-05 23:07:58 [HTTP]: [0mPOST /api/auth/login [32m200[0m 254.625 ms - 365[0m
+2026-05-05 23:07:58 [HTTP]: [0mGET /api/logs/stats [32m200[0m 11.683 ms - 1821[0m
+2026-05-05 23:08:10 [HTTP]: [0mGET /api/logs/stats [36m304[0m 18.020 ms - -[0m
+2026-05-05 23:08:11 [HTTP]: [0mGET /api/logs/stats [36m304[0m 11.555 ms - -[0m
+2026-05-05 23:08:11 [HTTP]: [0mGET /api/logs/stats [36m304[0m 8.212 ms - -[0m
+2026-05-05 23:08:13 [INFO]: [AUTH] LOGOUT | IP: ::1 | User: vedu@gmail.com
+2026-05-05 23:08:13 [HTTP]: [0mPOST /api/auth/logout [32m200[0m 10.015 ms - 53[0m
+2026-05-05 23:08:36 [INFO]: [AUTH] REGISTER | IP: ::1 | User: anki@gmail.com | {"name":"ankit shukla","role":"customer"}
+2026-05-05 23:08:36 [INFO]: [AUTH] New user registered | {"email":"anki@gmail.com","role":"customer","ip":"::1"}
+2026-05-05 23:08:36 [HTTP]: [0mPOST /api/auth/register [32m201[0m 277.638 ms - 352[0m
+2026-05-05 23:08:40 [HTTP]: [0mPOST /api/auth/logout [33m401[0m 4.351 ms - 81[0m
+2026-05-05 23:09:03 [HTTP]: [0mPOST /api/auth/register [33m400[0m 2.012 ms - 100[0m
+2026-05-05 23:09:10 [HTTP]: [0mPOST /api/auth/register [33m400[0m 0.969 ms - 100[0m
+2026-05-05 23:09:38 [HTTP]: [0mPOST /api/auth/register [33m400[0m 1.031 ms - 207[0m
+2026-05-05 23:09:44 [HTTP]: [0mPOST /api/auth/register [33m400[0m 1.888 ms - 165[0m
+2026-05-05 23:09:46 [HTTP]: [0mPOST /api/auth/register [33m400[0m 1.320 ms - 165[0m
+2026-05-05 23:10:10 [INFO]: [AUTH] LOGIN_SUCCESS | IP: ::1 | User: vedansh@gmail.com | {"role":"customer"}
+2026-05-05 23:10:10 [INFO]: [AUTH] Successful login | {"email":"vedansh@gmail.com","role":"customer","ip":"::1"}
+2026-05-05 23:10:10 [HTTP]: [0mPOST /api/auth/login [32m200[0m 280.954 ms - 372[0m
+2026-05-05 23:14:19 [INFO]: 🏦 CyberBank API running on port 5001 [development]
+2026-05-05 23:14:19 [INFO]: 🔐 STRIDE security controls active
+2026-05-05 23:14:19 [INFO]: MongoDB Connected: 127.0.0.1
+2026-05-06 22:35:45 [INFO]: 🏦 CyberBank API running on port 5001 [development]
+2026-05-06 22:35:45 [INFO]: 🔐 STRIDE security controls active
+2026-05-06 22:35:45 [INFO]: MongoDB Connected: 127.0.0.1
+2026-05-06 22:39:54 [HTTP]: [0mPOST /api/auth/register [33m400[0m 12.991 ms - 207[0m
+2026-05-06 22:39:59 [HTTP]: [0mPOST /api/auth/register [33m400[0m 2.027 ms - 165[0m
+2026-05-06 22:40:00 [HTTP]: [0mPOST /api/auth/register [33m400[0m 1.177 ms - 165[0m
+2026-05-06 22:40:01 [HTTP]: [0mPOST /api/auth/register [33m400[0m 0.872 ms - 165[0m
+2026-05-06 22:40:01 [HTTP]: [0mPOST /api/auth/register [33m400[0m 1.267 ms - 165[0m
+2026-05-06 22:40:01 [HTTP]: [0mPOST /api/auth/register [33m400[0m 1.424 ms - 165[0m
+2026-05-06 22:40:01 [HTTP]: [0mPOST /api/auth/register [33m400[0m 1.283 ms - 165[0m
+2026-05-06 22:40:01 [HTTP]: [0mPOST /api/auth/register [33m400[0m 1.155 ms - 165[0m
+2026-05-06 22:40:08 [ERROR]: 404 - Route not found: GET / | {"method":"GET","path":"/","ip":"::1"}
+Error: Route not found: GET /
+    at notFound (/Users/vedansh/cyberbank/server/middleware/errorHandler.js:63:17)
+    at Layer.handle [as handle_request] (/Users/vedansh/cyberbank/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/vedansh/cyberbank/server/node_modules/express/lib/router/index.js:328:13)
+    at /Users/vedansh/cyberbank/server/node_modules/express/lib/router/index.js:286:9
+    at router.process_params (/Users/vedansh/cyberbank/server/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/vedansh/cyberbank/server/node_modules/express/lib/router/index.js:280:10)
+    at logger (/Users/vedansh/cyberbank/server/node_modules/morgan/index.js:144:5)
+    at Layer.handle [as handle_request] (/Users/vedansh/cyberbank/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/vedansh/cyberbank/server/node_modules/express/lib/router/index.js:328:13)
+    at /Users/vedansh/cyberbank/server/node_modules/express/lib/router/index.js:286:9
+2026-05-06 22:40:08 [HTTP]: [0mGET / [33m404[0m 1.334 ms - 1087[0m
+2026-05-06 22:43:01 [WARN]: MongoDB disconnected. Attempting to reconnect...
+2026-05-06 22:44:02 [HTTP]: [0mPOST /api/auth/register [33m400[0m 1.056 ms - 165[0m
+2026-05-06 22:46:38 [HTTP]: [0mPOST /api/auth/register [33m400[0m 0.831 ms - 100[0m
+2026-05-06 23:24:43 [INFO]: [AUTH] LOGIN_SUCCESS | IP: ::1 | User: vedansh@gmail.com | {"role":"customer"}
+2026-05-06 23:24:43 [INFO]: [AUTH] Successful login | {"email":"vedansh@gmail.com","role":"customer","ip":"::1"}
+2026-05-06 23:24:43 [HTTP]: [0mPOST /api/auth/login [32m200[0m 288.470 ms - 372[0m
+2026-05-06 23:25:28 [INFO]: [AUTH] LOGOUT | IP: ::1 | User: vedansh@gmail.com
+2026-05-06 23:25:28 [HTTP]: [0mPOST /api/auth/logout [32m200[0m 9.717 ms - 53[0m
+2026-05-06 23:25:45 [HTTP]: [0mPOST /api/auth/register [33m400[0m 1.355 ms - 165[0m
+2026-05-06 23:30:41 [INFO]: 🏦 CyberBank API running on port 5001 [development]
+2026-05-06 23:30:41 [INFO]: 🔐 STRIDE security controls active
+2026-05-06 23:30:41 [INFO]: MongoDB Connected: 127.0.0.1
+2026-05-06 23:32:29 [WARN]: MongoDB disconnected. Attempting to reconnect...
+2026-05-06 23:33:29 [INFO]: [AUTH] REGISTER | IP: ::1 | User: aditya@gmail.com | {"name":"aditya","role":"admin"}
+2026-05-06 23:33:29 [INFO]: [AUTH] New user registered | {"email":"aditya@gmail.com","role":"admin","ip":"::1"}
+2026-05-06 23:33:29 [HTTP]: [0mPOST /api/auth/register [32m201[0m 264.378 ms - 345[0m
+2026-05-06 23:33:29 [HTTP]: [0mGET /api/logs/stats [33m401[0m 2.662 ms - 81[0m
+2026-05-06 23:33:48 [INFO]: [AUTH] LOGIN_SUCCESS | IP: ::1 | User: aditya@gmail.com | {"role":"admin"}
+2026-05-06 23:33:48 [INFO]: [AUTH] Successful login | {"email":"aditya@gmail.com","role":"admin","ip":"::1"}
+2026-05-06 23:33:48 [HTTP]: [0mPOST /api/auth/login [32m200[0m 254.881 ms - 367[0m
+2026-05-06 23:33:48 [HTTP]: [0mGET /api/logs/stats [32m200[0m 13.517 ms - 5298[0m
+2026-05-06 23:34:38 [HTTP]: [0mGET /api/logs?limit=20&page=1 [32m200[0m 9.623 ms - 5164[0m
+2026-05-06 23:34:39 [HTTP]: [0mGET /api/logs/alerts?limit=15&page=1 [32m200[0m 9.446 ms - 92[0m
+2026-05-06 23:34:40 [HTTP]: [0mGET /api/logs?limit=20&page=1 [36m304[0m 14.618 ms - -[0m
+2026-05-06 23:34:40 [HTTP]: [0mGET /api/logs?limit=20&page=1 [36m304[0m 14.075 ms - -[0m
+2026-05-06 23:34:41 [HTTP]: [0mGET /api/logs/stats [36m304[0m 14.657 ms - -[0m
+2026-05-06 23:34:41 [HTTP]: [0mGET /api/logs/stats [36m304[0m 19.900 ms - -[0m
+2026-05-06 23:34:43 [HTTP]: [0mGET /api/logs?limit=20&page=1 [36m304[0m 12.231 ms - -[0m
+2026-05-06 23:34:43 [HTTP]: [0mGET /api/logs?limit=20&page=1 [36m304[0m 11.429 ms - -[0m
+2026-05-06 23:35:18 [HTTP]: [0mGET /api/logs/stats [36m304[0m 15.697 ms - -[0m
+2026-05-06 23:35:18 [HTTP]: [0mGET /api/logs/stats [36m304[0m 17.915 ms - -[0m
+2026-05-06 23:37:45 [HTTP]: [0mGET /api/logs?limit=20&page=1 [36m304[0m 8.549 ms - -[0m
+2026-05-06 23:37:45 [HTTP]: [0mGET /api/logs?limit=20&page=1 [36m304[0m 8.819 ms - -[0m
+2026-05-06 23:38:04 [HTTP]: [0mGET /api/logs?limit=20&page=1 [36m304[0m 7.915 ms - -[0m
+2026-05-06 23:38:04 [HTTP]: [0mGET /api/logs?limit=20&page=1 [36m304[0m 9.715 ms - -[0m
+2026-05-06 23:38:04 [HTTP]: [0mGET /api/logs?limit=20&page=1 [36m304[0m 8.219 ms - -[0m
+2026-05-06 23:38:04 [HTTP]: [0mGET /api/logs?limit=20&page=1 [36m304[0m 5.733 ms - -[0m
+2026-05-06 23:38:04 [HTTP]: [0mGET /api/logs?limit=20&page=1 [36m304[0m 5.400 ms - -[0m
+2026-05-06 23:38:05 [HTTP]: [0mGET /api/logs/alerts?limit=15&page=1 [36m304[0m 4.190 ms - -[0m
+2026-05-06 23:38:05 [HTTP]: [0mGET /api/logs/alerts?limit=15&page=1 [36m304[0m 4.439 ms - -[0m
+2026-05-06 23:38:13 [HTTP]: [0mGET /api/logs/stats [36m304[0m 15.556 ms - -[0m
+2026-05-06 23:38:13 [HTTP]: [0mGET /api/logs/stats [36m304[0m 18.487 ms - -[0m
+2026-05-06 23:38:18 [INFO]: [AUTH] LOGOUT | IP: ::1 | User: aditya@gmail.com
+2026-05-06 23:38:18 [HTTP]: [0mPOST /api/auth/logout [32m200[0m 9.858 ms - 53[0m
+2026-05-06 23:38:31 [INFO]: [AUTH] LOGIN_SUCCESS | IP: ::1 | User: vedansh@gmail.com | {"role":"customer"}
+2026-05-06 23:38:31 [INFO]: [AUTH] Successful login | {"email":"vedansh@gmail.com","role":"customer","ip":"::1"}
+2026-05-06 23:38:31 [HTTP]: [0mPOST /api/auth/login [32m200[0m 253.767 ms - 372[0m
+2026-05-06 23:38:55 [INFO]: [AUTH] LOGOUT | IP: ::1 | User: vedansh@gmail.com
+2026-05-06 23:38:55 [HTTP]: [0mPOST /api/auth/logout [32m200[0m 7.779 ms - 53[0m
+2026-05-06 23:40:45 [INFO]: [AUTH] REGISTER | IP: ::1 | User: surya@gmail.com | {"name":"surya","role":"analyst"}
+2026-05-06 23:40:45 [INFO]: [AUTH] New user registered | {"email":"surya@gmail.com","role":"analyst","ip":"::1"}
+2026-05-06 23:40:45 [HTTP]: [0mPOST /api/auth/register [32m201[0m 253.610 ms - 345[0m
+2026-05-06 23:40:45 [HTTP]: [0mGET /api/logs/stats [33m401[0m 1.428 ms - 81[0m
+2026-05-06 23:40:59 [INFO]: [AUTH] LOGIN_SUCCESS | IP: ::1 | User: surya@gmail.com | {"role":"analyst"}
+2026-05-06 23:40:59 [INFO]: [AUTH] Successful login | {"email":"surya@gmail.com","role":"analyst","ip":"::1"}
+2026-05-06 23:40:59 [HTTP]: [0mPOST /api/auth/login [32m200[0m 252.792 ms - 367[0m
+2026-05-06 23:40:59 [HTTP]: [0mGET /api/logs/stats [32m200[0m 4.052 ms - 5246[0m
+2026-05-06 23:45:27 [WARN]: [SECURITY] Invalid JWT token attempt | {"ip":"::1","error":"jwt expired"}
+2026-05-06 23:45:27 [WARN]: [SECURITY] UNAUTHORIZED_ACCESS | IP: ::1 | User: anonymous | {"error":"Invalid token","path":"/logout"}
+2026-05-06 23:45:27 [HTTP]: [0mPOST /api/auth/logout [33m401[0m 5.678 ms - 70[0m
+2026-05-06 23:46:54 [INFO]: [AUTH] LOGIN_SUCCESS | IP: ::1 | User: surya@gmail.com | {"role":"analyst"}
+2026-05-06 23:46:54 [INFO]: [AUTH] Successful login | {"email":"surya@gmail.com","role":"analyst","ip":"::1"}
+2026-05-06 23:46:54 [HTTP]: [0mPOST /api/auth/login [32m200[0m 252.271 ms - 367[0m
+2026-05-06 23:46:54 [HTTP]: [0mGET /api/logs/stats [32m200[0m 29.945 ms - 5182[0m
+2026-05-06 23:50:54 [WARN]: MongoDB disconnected. Attempting to reconnect...
+2026-05-06 23:51:24 [HTTP]: [0mGET /api/logs/stats [32m200[0m 22.877 ms - 5182[0m
+2026-05-06 23:51:24 [HTTP]: [0mGET /api/logs/stats [32m200[0m 31.570 ms - 5182[0m
+2026-05-06 23:51:24 [HTTP]: [0mGET /api/logs/stats [36m304[0m 11.596 ms - -[0m
+2026-05-06 23:51:28 [INFO]: [AUTH] LOGOUT | IP: ::1 | User: surya@gmail.com
+2026-05-06 23:51:28 [HTTP]: [0mPOST /api/auth/logout [32m200[0m 14.391 ms - 53[0m
+2026-05-06 23:52:07 [INFO]: [AUTH] LOGIN_SUCCESS | IP: ::1 | User: surya@gmail.com | {"role":"analyst"}
+2026-05-06 23:52:07 [INFO]: [AUTH] Successful login | {"email":"surya@gmail.com","role":"analyst","ip":"::1"}
+2026-05-06 23:52:07 [HTTP]: [0mPOST /api/auth/login [32m200[0m 255.481 ms - 367[0m
+2026-05-06 23:52:08 [HTTP]: [0mGET /api/logs/stats [32m200[0m 15.880 ms - 5164[0m
+2026-05-06 23:52:21 [INFO]: [AUTH] LOGOUT | IP: ::1 | User: surya@gmail.com
+2026-05-06 23:52:21 [HTTP]: [0mPOST /api/auth/logout [32m200[0m 7.589 ms - 53[0m
+2026-05-06 23:52:50 [HTTP]: [0mPOST /api/auth/register [33m400[0m 1.210 ms - 165[0m
+2026-05-06 23:53:02 [INFO]: [AUTH] REGISTER | IP: ::1 | User: don@gmail.com | {"name":"anushka don","role":"customer"}
+2026-05-06 23:53:02 [INFO]: [AUTH] New user registered | {"email":"don@gmail.com","role":"customer","ip":"::1"}
+2026-05-06 23:53:02 [HTTP]: [0mPOST /api/auth/register [32m201[0m 254.791 ms - 350[0m
+2026-05-06 23:53:34 [HTTP]: [0mPOST /api/auth/logout [33m401[0m 3.551 ms - 81[0m
+2026-05-06 23:53:50 [INFO]: [AUTH] LOGIN_SUCCESS | IP: ::1 | User: surya@gmail.com | {"role":"analyst"}
+2026-05-06 23:53:50 [INFO]: [AUTH] Successful login | {"email":"surya@gmail.com","role":"analyst","ip":"::1"}
+2026-05-06 23:53:50 [HTTP]: [0mPOST /api/auth/login [32m200[0m 252.384 ms - 367[0m
+2026-05-06 23:53:50 [HTTP]: [0mGET /api/logs/stats [32m200[0m 3.961 ms - 5172[0m
+2026-05-06 23:53:57 [HTTP]: [0mGET /api/logs?limit=20&page=1 [32m200[0m 6.800 ms - 10043[0m
+2026-05-06 23:54:26 [HTTP]: [0mGET /api/logs?limit=20&page=1 [36m304[0m 9.620 ms - -[0m
+2026-05-06 23:54:29 [INFO]: [AUTH] LOGOUT | IP: ::1 | User: surya@gmail.com
+2026-05-06 23:54:29 [HTTP]: [0mPOST /api/auth/logout [32m200[0m 6.183 ms - 53[0m
+2026-05-06 23:55:05 [INFO]: [AUTH] REGISTER | IP: ::1 | User: aditi@gmail.com | {"name":"aditi","role":"admin"}
+2026-05-06 23:55:05 [INFO]: [AUTH] New user registered | {"email":"aditi@gmail.com","role":"admin","ip":"::1"}
+2026-05-06 23:55:05 [HTTP]: [0mPOST /api/auth/register [32m201[0m 251.592 ms - 343[0m
+2026-05-06 23:55:05 [HTTP]: [0mGET /api/logs/stats [33m401[0m 1.011 ms - 81[0m
+2026-05-06 23:55:17 [INFO]: [AUTH] LOGIN_SUCCESS | IP: ::1 | User: aditi@gmail.com | {"role":"admin"}
+2026-05-06 23:55:17 [INFO]: [AUTH] Successful login | {"email":"aditi@gmail.com","role":"admin","ip":"::1"}
+2026-05-06 23:55:17 [HTTP]: [0mPOST /api/auth/login [32m200[0m 253.132 ms - 365[0m
+2026-05-06 23:55:17 [HTTP]: [0mGET /api/logs/stats [32m200[0m 3.808 ms - 5162[0m
+2026-05-07 00:19:29 [WARN]: MongoDB disconnected. Attempting to reconnect...
+2026-05-07 00:34:57 [WARN]: MongoDB disconnected. Attempting to reconnect...
+2026-05-07 01:25:08 [WARN]: MongoDB disconnected. Attempting to reconnect...
+2026-05-07 02:08:59 [WARN]: MongoDB disconnected. Attempting to reconnect...
+2026-05-07 02:25:17 [WARN]: MongoDB disconnected. Attempting to reconnect...
+2026-05-07 03:09:59 [WARN]: MongoDB disconnected. Attempting to reconnect...
+2026-05-07 03:32:01 [WARN]: MongoDB disconnected. Attempting to reconnect...
+2026-05-07 04:07:13 [WARN]: MongoDB disconnected. Attempting to reconnect...
+2026-05-07 04:28:38 [WARN]: MongoDB disconnected. Attempting to reconnect...
+2026-05-07 05:11:59 [WARN]: MongoDB disconnected. Attempting to reconnect...
+2026-05-07 05:27:36 [WARN]: MongoDB disconnected. Attempting to reconnect...
+2026-05-07 06:12:59 [WARN]: MongoDB disconnected. Attempting to reconnect...
+2026-05-07 06:28:50 [WARN]: MongoDB disconnected. Attempting to reconnect...
+2026-05-07 07:13:59 [WARN]: MongoDB disconnected. Attempting to reconnect...
+2026-05-07 07:30:37 [WARN]: MongoDB disconnected. Attempting to reconnect...
+2026-05-07 08:14:59 [WARN]: MongoDB disconnected. Attempting to reconnect...
+2026-05-07 08:32:12 [WARN]: MongoDB disconnected. Attempting to reconnect...
+2026-05-07 09:15:59 [WARN]: MongoDB disconnected. Attempting to reconnect...
+2026-05-07 09:32:48 [WARN]: MongoDB disconnected. Attempting to reconnect...
+2026-05-07 10:16:59 [WARN]: MongoDB disconnected. Attempting to reconnect...
+2026-05-07 10:33:37 [HTTP]: [0mGET /api/logs/stats [36m304[0m 16.484 ms - -[0m
+2026-05-07 10:34:14 [WARN]: MongoDB disconnected. Attempting to reconnect...
+2026-05-08 22:21:24 [INFO]: 🏦 CyberBank API running on port 5001 [development]
+2026-05-08 22:21:24 [INFO]: 🔐 STRIDE security controls active
+2026-05-08 22:21:24 [INFO]: MongoDB Connected: 127.0.0.1
+2026-05-08 22:21:38 [WARN]: [SECURITY] Invalid JWT token attempt | {"ip":"::1","error":"jwt expired"}
+2026-05-08 22:21:38 [WARN]: [SECURITY] UNAUTHORIZED_ACCESS | IP: ::1 | User: anonymous | {"error":"Invalid token","path":"/stats"}
+2026-05-08 22:21:38 [HTTP]: [0mGET /api/logs/stats [33m401[0m 24.406 ms - 70[0m
+2026-05-08 22:22:17 [HTTP]: [0mPOST /api/auth/register [33m400[0m 7.878 ms - 165[0m
+2026-05-08 22:22:28 [INFO]: [AUTH] REGISTER | IP: ::1 | User: amit@gmail.com | {"name":"amit","role":"analyst"}
+2026-05-08 22:22:28 [INFO]: [AUTH] New user registered | {"email":"amit@gmail.com","role":"analyst","ip":"::1"}
+2026-05-08 22:22:28 [HTTP]: [0mPOST /api/auth/register [32m201[0m 277.364 ms - 343[0m
+2026-05-08 22:22:28 [HTTP]: [0mGET /api/logs/stats [33m401[0m 4.662 ms - 81[0m
+2026-05-08 22:22:41 [INFO]: [AUTH] LOGIN_SUCCESS | IP: ::1 | User: amit@gmail.com | {"role":"analyst"}
+2026-05-08 22:22:41 [INFO]: [AUTH] Successful login | {"email":"amit@gmail.com","role":"analyst","ip":"::1"}
+2026-05-08 22:22:41 [HTTP]: [0mPOST /api/auth/login [32m200[0m 258.823 ms - 365[0m
+2026-05-08 22:22:41 [HTTP]: [0mGET /api/logs/stats [32m200[0m 14.014 ms - 5265[0m
+2026-05-08 22:23:03 [HTTP]: [0mGET /api/logs/stats [36m304[0m 15.482 ms - -[0m
+2026-05-08 22:23:04 [HTTP]: [0mGET /api/logs/stats [36m304[0m 16.346 ms - -[0m
+2026-05-08 22:23:04 [HTTP]: [0mGET /api/logs/stats [36m304[0m 18.606 ms - -[0m
+2026-05-08 22:23:04 [HTTP]: [0mGET /api/logs/stats [36m304[0m 12.257 ms - -[0m
+2026-05-08 22:23:04 [HTTP]: [0mGET /api/logs/stats [36m304[0m 7.471 ms - -[0m

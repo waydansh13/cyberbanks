@@ -1,0 +1,14 @@
+2026-05-01 23:04:21 [ERROR]: MongoDB connection failed: connect ECONNREFUSED 127.0.0.1:27017
+2026-05-05 22:57:35 [ERROR]: MongoDB connection failed: connect ECONNREFUSED 127.0.0.1:27017
+2026-05-06 22:40:08 [ERROR]: 404 - Route not found: GET / | {"method":"GET","path":"/","ip":"::1"}
+Error: Route not found: GET /
+    at notFound (/Users/vedansh/cyberbank/server/middleware/errorHandler.js:63:17)
+    at Layer.handle [as handle_request] (/Users/vedansh/cyberbank/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/vedansh/cyberbank/server/node_modules/express/lib/router/index.js:328:13)
+    at /Users/vedansh/cyberbank/server/node_modules/express/lib/router/index.js:286:9
+    at router.process_params (/Users/vedansh/cyberbank/server/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/vedansh/cyberbank/server/node_modules/express/lib/router/index.js:280:10)
+    at logger (/Users/vedansh/cyberbank/server/node_modules/morgan/index.js:144:5)
+    at Layer.handle [as handle_request] (/Users/vedansh/cyberbank/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/vedansh/cyberbank/server/node_modules/express/lib/router/index.js:328:13)
+    at /Users/vedansh/cyberbank/server/node_modules/express/lib/router/index.js:286:9
